@@ -2,7 +2,7 @@ int main(){
     int n;
     char a;
     float prosek = 0;
-    printf("Cao Audi, ovo je mala anketa napravljena da ustanovimo da li ti je nedeljni unos jaja dovoljan. \n" );
+    printf("Cao Audi, ovo je velika anketa napravljena da ustanovimo da li ti je nedeljni unos jaja dovoljan. \n" );
     scanf("%c", &a);
 
     for (int i = 0; i< 7; i++){
